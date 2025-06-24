@@ -6,15 +6,15 @@ export default function Header() {
     <header className={styles.header}>
       <div className={styles.loremIpsum}>
         <div>
-          <img src="/images/lorem-ipsum.png" alt="Lorem Ipsum Logo" />
+          <img src="/images/lorem.png" alt="Lorem Ipsum Logo" />
           <p>Lorem ipsum dolor</p>
         </div>
         <div>
-          <img src="/images/lorem-ipsum.png" alt="Lorem Ipsum Logo" />
+          <img src="/images/lorem.png" alt="Lorem Ipsum Logo" />
           <p>Lorem ipsum dolor</p>
         </div>
         <div>
-          <img src="/images/lorem-ipsum.png" alt="Lorem Ipsum Logo" />
+          <img src="/images/lorem.png" alt="Lorem Ipsum Logo" />
           <p>Lorem ipsum dolor</p>
         </div>
       </div>
